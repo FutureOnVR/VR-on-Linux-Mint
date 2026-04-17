@@ -27,4 +27,19 @@ For a quick shortcut, [Download v1.1 of the PDF here](https://github.com/FutureO
 
 This guide is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
-If you share or adapt this guide, you must provide attribution and indicate whether changes were made, and most importantly, you must keep the adaptation free in both cost and license.
+If you share or adapt this guide, you must provide attribution and indicate whether changes were made.
+
+
+## How to share this guide
+
+This guide may be copied, redistributed, and adapted under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+When sharing or adapting it, you must:
+- credit **FutureOnVR** as the original author
+- link to the original source where possible
+- indicate whether you made changes
+- license any adapted version under **CC BY-SA 4.0**
+
+
+..and **Please**, do not charge money for this guide, even if adapted, for it is shared freely for anyone who wants to learn.
+
