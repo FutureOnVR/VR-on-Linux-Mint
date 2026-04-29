@@ -2,13 +2,13 @@
 ## How To Play SteamVR (inlcuding UEVR) Games on Linux Mint using a Quest 3 + Nvidia (5080) GPU
 
 
-The latest version is currently [1.1-rev1, whose release page is here](https://github.com/FutureOnVR/VR-on-Linux-Mint/releases/tag/v1.1-rev1).
+The latest version is currently [1.2, whose release page is here](https://github.com/FutureOnVR/VR-on-Linux-Mint/releases/tag/v1.2).
 
 ### For a quick shortcut, you can read it here: 
 
-[VR on Linux Mint - v1.1-rev1](https://github.com/FutureOnVR/VR-on-Linux-Mint/wiki/VR-on-Linux-Mint-v1.1)
+[VR on Linux Mint - v1.2](https://github.com/FutureOnVR/VR-on-Linux-Mint/wiki/VR-on-Linux-Mint-v1.2))
 
-> Please note: This update is only available on the Wiki, readable online, not as a PDF document, as was the case with version 1.1.
+> Please note: This update is only available on the Wiki, readable online.
 
 
 ## Useful Links
