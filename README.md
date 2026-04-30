@@ -17,6 +17,7 @@ https://github.com/FutureOnVR/VR-on-Linux-Mint/releases/tag/v1.2
 
 - [Linux Mint](https://www.linuxmint.com/)
 - [ALVR](https://github.com/alvr-org/ALVR)
+- [WiVRn](https://github.com/WiVRn/WiVRn)
 - [WayVR](https://github.com/wayvr-org/wayvr)
 - [UEVR Mod](https://github.com/praydog/UEVR)
 - [Dortamur's Satisfactory UEVR Enhancements](https://github.com/dortamur/satisfactory-uevr-enhancements)
